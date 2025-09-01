@@ -1,1 +1,1 @@
-# kosala-ayurvedic
+# Kosala-Ayurvedic
